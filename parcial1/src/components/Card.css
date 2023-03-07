@@ -1,0 +1,31 @@
+
+.card{
+
+    width:400px;;
+    border: 3px solid black;
+    height: 150px;
+    
+}
+.pelicula-favoria{
+    width:400px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    background-color:aqua;
+    margin-bottom: 10px
+
+}
+
+.form{
+   
+    display: grid;
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 100px solid black;   
+
+}
+
+
+
+
+
